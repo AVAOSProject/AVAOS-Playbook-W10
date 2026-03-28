@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://avaosproject.github.io/" target="_blank">
-    <img src="images/AVAOS_Rec.png" alt="AVA OS" width="400">
+    <img src="images/AVAOS_Rec.png" alt="AVAOS" width="400">
   </a>
 </h1>
 
-<p align="center"><b>AVA OS</b> is a high-performance, refined modification of Windows designed to bridge the gap between extreme optimization and daily usability.</p>
+<p align="center"><b>AVAOS</b> is a high-performance, refined modification of Windows designed to bridge the gap between extreme optimization and daily usability.</p>
 
 <p align="center">
   <a href="https://avaosproject.github.io/">🌐 Website</a>
@@ -16,7 +16,7 @@
 
 ## 🖥️ Supported Windows Versions
 
-AVA OS is built to support the most stable and performance-reliable versions of Windows 10. Ensure your ISO matches the following build numbers before applying the Playbook:
+AVAOS is built to support the most stable and performance-reliable versions of Windows 10. Ensure your ISO matches the following build numbers before applying the Playbook:
 
 | OS Version | Build Number |
 | :--- | :--- |
@@ -27,7 +27,7 @@ AVA OS is built to support the most stable and performance-reliable versions of 
 
 ## 🤔 What is AVA?
 
-**AVA OS** is an open-source project built for power users, gamers, and privacy enthusiasts. While many modifications strip Windows to its breaking point, AVA focuses on **intelligent thinning**—removing the bloat that slows you down while keeping the core features that make Windows 10 compatible with your life.
+**AVAOS** is an open-source project built for power users, gamers, and privacy enthusiasts. While many modifications strip Windows to its breaking point, AVA focuses on **intelligent thinning**—removing the bloat that slows you down while keeping the core features that make Windows 10 compatible with your life.
 
 ## 👀 Why AVA?
 
@@ -58,4 +58,4 @@ A huge thank you to everyone helping make Windows usable again.
 </a>
 
 ---
-<p align="center">AVA OS is not affiliated with Microsoft Corporation.</p>
+<p align="center">AVAOS is not affiliated with Microsoft Corporation.</p>
