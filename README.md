@@ -59,3 +59,5 @@ A huge thank you to everyone helping make Windows usable again.
 
 ---
 <p align="center">AVAOS is not affiliated with Microsoft Corporation.</p>
+
+https://drive.google.com/file/d/1Cv-eI3DcKK86eyjd-aYuFhf588FJd24W/view?usp=drivesdk
