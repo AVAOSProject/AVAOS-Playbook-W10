@@ -1,3 +1,8 @@
+WINDOWS 10 BUILDS ARE DEPRICATED. PLEASE CONSIDER INSTALLING WINDOWS 11 AND INSTALLING AVAOS FROM THERE!!!
+
+
+
+
 <h1 align="center">
   <a href="https://avaosproject.github.io/" target="_blank">
     <img src="images/AVAOS_Rec.png" alt="AVAOS" width="400">
